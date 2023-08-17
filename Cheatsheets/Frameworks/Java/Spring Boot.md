@@ -179,3 +179,5 @@ management.endpoints.web.exposure.include=*
 
 >[!Note]
 >This cheat-sheet provides an overview of key concepts in Java Spring Boot. For more in-depth information, refer to the official [Spring Boot documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/). If you have specific questions or need more details, feel free to ask!
+
+#framework
