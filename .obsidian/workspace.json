@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c34ba15cbad41e01",
+        "id": "c328af43831a01ad",
         "type": "tabs",
         "children": [
           {
-            "id": "15f65aceb0c9d1a1",
+            "id": "e8df10a6a0b981c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/Frameworks/Java/JavaFX.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cheatsheets/Frameworks/Java/JavaFX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cheatsheets/Frameworks/Java/JavaFX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cheatsheets/Frameworks/Java/JavaFX.md"
+              }
             }
           }
         ],
@@ -139,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f65aceb0c9d1a1",
+  "active": "e8df10a6a0b981c5",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Cheatsheets/Frameworks/Java/JavaFX.md",
+    "Cheatsheets/Databases/Structured Query Language (SQL).md",
     "Cheatsheets/Design Patterns/Java.md",
     "Cheatsheets/Design Patterns/C++.md",
-    "Cheatsheets/Databases/Structured Query Language (SQL).md",
-    "Untitled.canvas",
     "Cheatsheets/Programming Languages/Rust.md",
     "Cheatsheets/Programming Languages/Java.md",
     "Cheatsheets/Databases",
@@ -175,7 +184,6 @@
     "Programming Notes",
     "Programming Languages/C++.md",
     "Programming Languages/Python.md",
-    "New Text Document.txt",
-    "Programming Languages/Java.md"
+    "New Text Document.txt"
   ]
 }
