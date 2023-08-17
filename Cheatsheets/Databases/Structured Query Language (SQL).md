@@ -298,6 +298,6 @@ CREATE TABLE table_name (
 ```
 
 >[!Note]
->This advanced SQL cheat-sheet covers more intricate features and concepts of SQL.
+>This advanced SQL cheat-sheet covers intricate features and concepts of SQL.
 
 #databases
