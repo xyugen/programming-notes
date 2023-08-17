@@ -1,18 +1,18 @@
 Cryptography is the art and science of secure communication. Cryptography algorithms are mathematical procedures used to convert plain, readable data (plaintext) into a coded form (ciphertext) to ensure confidentiality, integrity, and authenticity of information.
 
 **Types of Cryptography:**
-1. **Symmetric Key Cryptography:**
+1. **[[Symmetric Key Cryptography]]:**
     - Imagine you and your friend have a secret key. You use this key to lock (encrypt) your message, and your friend uses the same key to unlock (decrypt) it.
     - Both parties must keep the key secret, as anyone with the key can encrypt or decrypt messages.
     - Examples: Advanced Encryption Standard (AES), Data Encryption Standard (DES).
-2. **Asymmetric Key Cryptography:**
+2. **[[Asymmetric Key Cryptography]]:**
     - Imagine you have a pair of keys: a public key and a private key. You can share your public key with anyone, and they can use it to encrypt messages to you.
     - Only you, with your private key, can decrypt the messages encrypted with your public key.
     - Asymmetric cryptography enables secure communication without needing to share a secret key.
     - Examples: RSA (Rivest-Shamir-Adleman), Elliptic Curve Cryptography (ECC).
 
 **Common Cryptography Algorithms:**
-1. **AES (Advanced Encryption Standard):**
+1. **[[Advanced Encryption Standard (AES)]]:**
     - Imagine you're securing your message using a secret key that both you and the recipient know.
     - AES operates on blocks of data, transforming plaintext into ciphertext.
     - It's widely used for secure data transmission and storage.

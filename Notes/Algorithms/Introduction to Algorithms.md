@@ -13,7 +13,7 @@ Algorithms have a wide range of applications across different fields
 2. **[[Data Compression]]:** Algorithms like Huffman coding and Run-Length Encoding are used to compress data to reduce storage space and transmission time.
 3. **[[Graph Theory]]:** Algorithms in this domain help solve problems related to networks, routing, and connectivity, with applications in social networks, transportation systems, and more.
 4. **[[Cryptography]]:** Encryption and decryption algorithms secure sensitive data and communications, ensuring privacy and security.
-5. **[[Machine Learning]] and AI:** Many machine learning models and AI systems are built on complex algorithms that analyze data patterns and make predictions.
+5. **[[Machine Learning]] and [[Artificial Intelligence Algorithms|AI]]:** Many machine learning models and AI systems are built on complex algorithms that analyze data patterns and make predictions.
 6. **[[Optimization Algorithms|Optimization]]:** Algorithms help optimize processes and resource allocation, such as finding the shortest path in transportation networks or minimizing production costs.
 
 **Algorithm Complexity:**

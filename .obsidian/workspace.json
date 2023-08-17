@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec4d86fe5847cc1",
+        "id": "561e6c7862219514",
         "type": "tabs",
         "children": [
           {
-            "id": "078c4c202873a116",
+            "id": "466e2c0fb4608f7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,21 +138,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "078c4c202873a116",
+  "active": "466e2c0fb4608f7e",
   "lastOpenFiles": [
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Merge Sort Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Searching Algorithms.md",
+    "Notes/Algorithms/Algorithm Applications/Cryptography.md",
+    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Types of Cryptography/Symmetric Key Cryptography.md",
+    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Symmetric Key Cryptography/Data Encryption Standard (DES).md",
+    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Symmetric Key Cryptography/Advanced Encryption Standard (AES).md",
+    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Asymmetric Key Cryptography",
+    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Symmetric Key Cryptography",
+    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Types of Cryptography/Asymmetric Key Cryptography.md",
+    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Types of Cryptography",
+    "Notes/Algorithms/Introduction to Algorithms.md",
+    "Notes/Algorithms/Algorithm Applications/AI Algorithms/Artificial Intelligence Algorithms.md",
+    "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
     "Notes/Algorithms/Algorithm Complexity/Time Complexity.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Insertion Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Bubble Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Linear Search Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Hashing Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Binary Search Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications/Searching Algorithms.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Merge Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms.md",
     "Readme.md",
-    "Notes/Algorithms/Introduction to Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Greedy Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Dynamic Programming.md",
     "Notes/Algorithms/Types of Algorithms/Divide and Conquer Algorithms.md",
@@ -171,19 +173,9 @@
     "Notes/Algorithms/Algorithm Complexity",
     "Notes/Algorithms/Types of Algorithms/Untitled",
     "Notes/Algorithms/Types of Algorithms",
-    "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
     "Notes/Algorithms/Algorithm Applications/Optimization Algorithms",
-    "Notes/Algorithms/Algorithm Applications/AI Algorithms/Artificial Intelligence.md",
     "Notes/Algorithms/Algorithm Applications/AI Algorithms",
-    "Notes/Algorithms/Algorithm Applications/Machine Learning Algorithms/Machine Learning.md",
     "Notes/Algorithms/Algorithm Applications/Machine Learning Algorithms",
-    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Cryptography.md",
-    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms",
-    "Notes/Algorithms/Algorithm Applications/Graph Theory/Graph Theory.md",
-    "Notes/Algorithms/Algorithm Applications/Data Compression Algorithms/Data Compression.md",
-    "Notes/Algorithms/Algorithm Applications/Graph Theory",
-    "Notes/Algorithms/Algorithm Applications/Data Compression Algorithms",
-    "Cheatsheets/Programming Languages/C.md",
     "Untitled.canvas"
   ]
 }
