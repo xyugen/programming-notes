@@ -167,4 +167,4 @@ public:
 >[!Note]
 >Remember, these are just brief code snippets for each design pattern. For a comprehensive understanding and to see these patterns in action, you might want to explore more detailed resources and examples.
 
-#design-patterns
+#programming-languages

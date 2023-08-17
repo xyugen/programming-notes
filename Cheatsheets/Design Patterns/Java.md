@@ -1,6 +1,6 @@
 ## Creational Patterns
 
-### Singleton
+### [[Singleton]]
 
 ```java
 public class Singleton {
@@ -19,7 +19,7 @@ public class Singleton {
 }
 ```
 
-### Factory Method
+### [[Factory]]
 
 ```java
 interface Product {
@@ -45,7 +45,7 @@ class ConcreteCreatorA extends Creator {
 
 ## Structural Patterns
 
-### Adapter
+### [[Adapter]]
 
 ```java
 interface Target {
@@ -71,7 +71,7 @@ class Adapter implements Target {
 }
 ```
 
-### Decorator
+### [[Decorator]]
 
 ```java
 interface Component {
@@ -106,7 +106,7 @@ class ConcreteDecorator extends Decorator {
 
 ## Behavioral Patterns
 
-### Observer
+### [[Observer]]
 
 ```java
 import java.util.ArrayList;
@@ -149,7 +149,7 @@ class Subject {
 }
 ```
 
-### Strategy
+### [[Strategy]]
 
 ```java
 interface Strategy {
@@ -175,4 +175,4 @@ class Context {
 }
 ```
 
-#design-patterns
+#programming-languages

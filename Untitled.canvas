@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"dba4be37b4eb2703","x":170,"y":235,"width":400,"height":400,"type":"file","file":"Notes/Design Patterns/Structural/Decorator.md"},
+		{"id":"d0eedc9cde7b0751","x":-260,"y":0,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"cf5e331c6755d3dd","fromNode":"d0eedc9cde7b0751","fromSide":"bottom","toNode":"dba4be37b4eb2703","toSide":"top"}
+	]
+}
