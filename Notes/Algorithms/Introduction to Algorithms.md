@@ -18,11 +18,11 @@ Algorithms have a wide range of applications across different fields
 
 **Algorithm Complexity:**
 The efficiency of an algorithm is often measured in terms of time and space complexity.
-1. **Time Complexity:** This quantifies the amount of time an algorithm takes to run as a function of the input size. Common notations include Big O, Big Omega, and Big Theta.
-2. **Space Complexity:** This measures the amount of memory an algorithm uses as a function of the input size.
+1. **[[Time Complexity]]:** This quantifies the amount of time an algorithm takes to run as a function of the input size. Common notations include Big O, Big Omega, and Big Theta.
+2. **[[Space Complexity]]:** This measures the amount of memory an algorithm uses as a function of the input size.
 
 **Types of Algorithms:**
-1. **Brute Force Algorithms:** These are straightforward and exhaustive methods that try every possible solution. While accurate, they are often inefficient for larger inputs.
+1. **[[Brute Force|Brute Force Algorithms]]:** These are straightforward and exhaustive methods that try every possible solution. While accurate, they are often inefficient for larger inputs.
 2. **Divide and Conquer Algorithms:** These algorithms break down a problem into smaller subproblems, solve them recursively, and combine their solutions to solve the larger problem.
 3. **Greedy Algorithms:** Greedy algorithms make locally optimal choices at each step, aiming to reach a global optimal solution.
 4. **Dynamic Programming:** Dynamic programming optimizes solutions by solving and storing subproblems, preventing redundant calculations.
