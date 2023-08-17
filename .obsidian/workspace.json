@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f7be6a4df43b5b5e",
+        "id": "e3e73ed1f8ddf66c",
         "type": "tabs",
         "children": [
           {
-            "id": "ad14d2946d584304",
+            "id": "3fd2dc37df9e26a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algorithms/Space Complexity.md",
-                "mode": "preview",
-                "source": true
+                "file": "Notes/Algorithms/Introduction to Algorithms.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Algorithms/Space Complexity.md",
+                "file": "Notes/Algorithms/Introduction to Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Algorithms/Space Complexity.md",
+                "file": "Notes/Algorithms/Introduction to Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Algorithms/Space Complexity.md"
+                "file": "Notes/Algorithms/Introduction to Algorithms.md"
               }
             }
           }
@@ -147,30 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad14d2946d584304",
+  "active": "3fd2dc37df9e26a3",
   "lastOpenFiles": [
-    "Notes/Algorithms/Types of Algorithms/Brute Force.md",
-    "Notes/Algorithms/Time Complexity.md",
-    "Notes/Algorithms/Space Complexity.md",
+    "Notes/Algorithms/Types of Algorithms/Backtracking Algorithms.md",
     "Notes/Algorithms/Introduction to Algorithms.md",
+    "Notes/Algorithms/Types of Algorithms/Divide and Conquer Algorithms.md",
+    "Notes/Algorithms/Types of Algorithms/Brute Force Algorithms.md",
+    "Notes/Algorithms/Types of Algorithms/Dynamic Programming.md",
+    "Notes/Algorithms/Types of Algorithms/Greedy Algorithms.md",
+    "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Searching Algorithms.md",
+    "Notes/Algorithms/Algorithm Applications",
+    "Notes/Algorithms/Algorithm Complexity/Space Complexity.md",
+    "Notes/Algorithms/Algorithm Complexity",
+    "Notes/Algorithms/Algorithm Complexity/Time Complexity.md",
+    "Notes/Algorithms/Types of Algorithms/Untitled",
     "Notes/Algorithms/Types of Algorithms",
-    "Notes/Algorithms/Sorting Algorithms/Sorting Algorithms.md",
-    "Notes/Algorithms/Optimization Algorithms/Optimization Algorithms.md",
-    "Notes/Algorithms/Optimization Algorithms",
-    "Notes/Algorithms/AI Algorithms/Artificial Intelligence.md",
-    "Notes/Algorithms/AI Algorithms",
-    "Notes/Algorithms/Machine Learning Algorithms/Machine Learning.md",
-    "Notes/Algorithms/Machine Learning Algorithms",
-    "Notes/Algorithms/Cryptography Algorithms/Cryptography.md",
-    "Notes/Algorithms/Cryptography Algorithms",
-    "Notes/Algorithms/Graph Theory/Graph Theory.md",
-    "Notes/Algorithms/Data Compression Algorithms/Data Compression.md",
-    "Notes/Algorithms/Searching Algorithms/Searching Algorithms.md",
-    "Notes/Algorithms/Graph Theory",
-    "Notes/Algorithms/Data Compression Algorithms",
-    "Notes/Algorithms/Searching Algorithms",
-    "Notes/Algorithms/Sorting Algorithms",
-    "Notes/Algorithms",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Sorting Algorithms.md",
+    "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
+    "Notes/Algorithms/Algorithm Applications/Optimization Algorithms",
+    "Notes/Algorithms/Algorithm Applications/AI Algorithms/Artificial Intelligence.md",
+    "Notes/Algorithms/Algorithm Applications/AI Algorithms",
+    "Notes/Algorithms/Algorithm Applications/Machine Learning Algorithms/Machine Learning.md",
+    "Notes/Algorithms/Algorithm Applications/Machine Learning Algorithms",
+    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Cryptography.md",
+    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms",
+    "Notes/Algorithms/Algorithm Applications/Graph Theory/Graph Theory.md",
+    "Notes/Algorithms/Algorithm Applications/Data Compression Algorithms/Data Compression.md",
+    "Notes/Algorithms/Algorithm Applications/Graph Theory",
+    "Notes/Algorithms/Algorithm Applications/Data Compression Algorithms",
     "Cheatsheets/Programming Languages/C.md",
     "Cheatsheets/Frameworks/Java/JavaFX.md",
     "Untitled.canvas",
@@ -181,10 +185,6 @@
     "Cheatsheets/Programming Languages/Java.md",
     "Cheatsheets/Programming Languages/Go.md",
     "Notes/Design Patterns/Structural/Decorator.md",
-    "Notes/Design Patterns/Structural/Adapter.md",
-    "Notes/Design Patterns/Creational/Singleton.md",
-    "Notes/Design Patterns/Creational/Factory.md",
-    "Notes/Design Patterns/Behavioral/Strategy.md",
-    "Notes/Design Patterns/Behavioral/Observer.md"
+    "Notes/Design Patterns/Structural/Adapter.md"
   ]
 }

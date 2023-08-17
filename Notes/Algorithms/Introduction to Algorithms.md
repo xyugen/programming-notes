@@ -22,11 +22,11 @@ The efficiency of an algorithm is often measured in terms of time and space comp
 2. **[[Space Complexity]]:** This measures the amount of memory an algorithm uses as a function of the input size.
 
 **Types of Algorithms:**
-1. **[[Brute Force|Brute Force Algorithms]]:** These are straightforward and exhaustive methods that try every possible solution. While accurate, they are often inefficient for larger inputs.
-2. **Divide and Conquer Algorithms:** These algorithms break down a problem into smaller subproblems, solve them recursively, and combine their solutions to solve the larger problem.
-3. **Greedy Algorithms:** Greedy algorithms make locally optimal choices at each step, aiming to reach a global optimal solution.
-4. **Dynamic Programming:** Dynamic programming optimizes solutions by solving and storing subproblems, preventing redundant calculations.
-5. **Backtracking Algorithms:** These algorithms explore all possible solutions, removing those that fail to satisfy the problem's constraints.
+1. **[[Brute Force Algorithms]]:** These are straightforward and exhaustive methods that try every possible solution. While accurate, they are often inefficient for larger inputs.
+2. **[[Divide and Conquer Algorithms]]:** These algorithms break down a problem into smaller subproblems, solve them recursively, and combine their solutions to solve the larger problem.
+3. **[[Greedy Algorithms]]:** Greedy algorithms make locally optimal choices at each step, aiming to reach a global optimal solution.
+4. **[[Dynamic Programming]]:** Dynamic programming optimizes solutions by solving and storing subproblems, preventing redundant calculations.
+5. **[[Backtracking Algorithms]]:** These algorithms explore all possible solutions, removing those that fail to satisfy the problem's constraints.
 
 **Algorithm Design and Analysis:**
 Designing effective algorithms requires a deep understanding of the problem, creative thinking, and careful consideration of trade-offs between factors like time complexity and space complexity. Analysis techniques help evaluate algorithm efficiency and compare different approaches.
