@@ -2,11 +2,11 @@ Time complexity is a concept used in computer science to measure how long an alg
 
 **Big O Notation:**
 To describe time complexity, we often use a notation called Big O. It's like a shorthand that helps us talk about how an algorithm's runtime grows in relation to the size of the input. Here are some common notations and what they mean:
-- **$O(1)$ (Constant Time):** This means the algorithm's runtime doesn't change as the input grows. It's like a task that takes the same amount of time, regardless of how many items you're dealing with.
-- **$O(\log n)$ (Logarithmic Time):** As the input size increases, the algorithm's runtime increases but at a slower and slower rate. It's like finding a word in a dictionary—you don't need to search every page.
-- **$O(n)$ (Linear Time):** The algorithm's runtime increases linearly with the input size. If you have twice as many items, it takes about twice as long.
+- **$O(1)$ (Constant Time):** This means the algorithm's runtime doesn't change as the input grows. It's like a task that takes the same amount of time, regardless of how many items you're dealing with. ^d65a72
+- **$O(\log n)$ (Logarithmic Time):** As the input size increases, the algorithm's runtime increases but at a slower and slower rate. It's like finding a word in a dictionary—you don't need to search every page. ^d41ae4
+- **$O(n)$ (Linear Time):** The algorithm's runtime increases linearly with the input size. If you have twice as many items, it takes about twice as long. ^375891
 - **$O(n \log n)$ (Linearithmic Time):** This is faster than linear but slower than quadratic. It's common in efficient sorting algorithms like Merge Sort and Quick Sort.
-- **$O(n^2)$ (Quadratic Time):** The runtime grows proportional to the square of the input size. As the input gets bigger, the time taken increases significantly.
+- **$O(n^2)$ (Quadratic Time):** The runtime grows proportional to the square of the input size. As the input gets bigger, the time taken increases significantly. ^23d84b
 - **$O(2^n)$ (Exponential Time):** The runtime doubles with every additional item. It's very slow and often impractical for larger inputs.
 
 **Example:**

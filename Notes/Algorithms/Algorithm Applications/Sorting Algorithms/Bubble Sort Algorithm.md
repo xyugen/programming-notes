@@ -17,7 +17,7 @@ Let's say you have an unsorted list: `[5, 2, 9, 3, 4]`.
 3. **Iteration 3:** `[2, 3, 4, 5, 9]` (no swaps needed, list is sorted).
 
 **Time Complexity:**
-Bubble Sort has a time complexity of $O(n^2)$, where $n$ is the number of elements in the list. This means that the time it takes to sort the list increases rapidly as the number of elements increases.
+Bubble Sort has a time complexity of [[Time Complexity#^23d84b|O(n^2)]], where $n$ is the number of elements in the list. This means that the time it takes to sort the list increases rapidly as the number of elements increases.
 
 **When to Use Bubble Sort:**
 Bubble Sort is primarily used for educational purposes and small lists due to its inefficiency. It's not suitable for sorting large datasets where more efficient algorithms like [[Merge Sort Algorithm|Merge Sort]] or [[Quick Sort Algorithm|Quick Sort]] are better choices.

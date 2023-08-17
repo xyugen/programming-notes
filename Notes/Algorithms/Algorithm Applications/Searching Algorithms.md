@@ -1,14 +1,14 @@
 Searching algorithms are techniques used to find a specific item, usually within a collection of items like a list or an array. Imagine you're looking for a particular book on a shelf filled with books. Searching algorithms are like the strategies you use to find that book efficiently.
 
 **Popular Searching Algorithms:**
-1. **Linear Search:**
+1. **[[Linear Search Algorithm|Linear Search]]:**
     - Imagine you're searching for a book by going through each book on the shelf, one by one, until you find the right one.
     - Linear Search is simple and works for both sorted and unsorted lists, but it can be slow for large lists.
-2. **Binary Search:**
+2. **[[Binary Search Algorithm|Binary Search]]:**
     - Imagine you're searching for a book in a sorted shelf by repeatedly dividing the shelf in half and narrowing down the search space.
     - Binary Search is efficient but requires the list to be sorted first.
     - It's like flipping open the book to the middle, seeing if the title is before or after the current page, and then repeating in the relevant half.
-3. **Hashing:**
+3. **[[Hashing Algorithm|Hashing]]:**
     - Imagine you're using a book's unique ISBN to directly find its location on the shelf without searching through each book.
     - Hashing is like having a key to open a specific bookcase where the desired item is stored.
     - It's fast but requires a hashing function and might lead to collisions (multiple items having the same hash value).

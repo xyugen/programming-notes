@@ -16,9 +16,9 @@ Let's say you have the unsorted list `[5, 2, 9, 1, 5, 6]`.
 6. **Iteration 6:** `[1, 2, 5, 5, 6, 9]` (Insert 6 in the correct position)
 
 **Algorithm Complexity:**
-- **Time Complexity:** In the worst-case scenario, when the list is in reverse order, Insertion Sort takes approximately $O(n^2)$ comparisons and swaps.
+- **[[Time Complexity]]:** In the worst-case scenario, when the list is in reverse order, Insertion Sort takes approximately $O(n^2)$ comparisons and swaps.
 - **Best Case:** When the list is already sorted, Insertion Sort runs in $O(n)$ time, making it efficient.
-- **Space Complexity:** Insertion Sort only requires a small amount of additional memory for the swapping and comparison operations, so it has a space complexity of $O(1)$.
+- **[[Space Complexity]]:** Insertion Sort only requires a small amount of additional memory for the swapping and comparison operations, so it has a space complexity of $O(1)$.
 
 **Pros and Cons:**
 

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ea4c84c2b08c77ef",
+        "id": "8ec4d86fe5847cc1",
         "type": "tabs",
         "children": [
           {
-            "id": "c784d7b036bab01d",
+            "id": "078c4c202873a116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
-                "mode": "source",
+                "file": "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
+                "file": "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
+                "file": "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md"
+                "file": "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md"
               }
             }
           }
@@ -146,15 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c784d7b036bab01d",
+  "active": "078c4c202873a116",
   "lastOpenFiles": [
     "Notes/Algorithms/Algorithm Complexity/Time Complexity.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Insertion Sort Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Bubble Sort Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Linear Search Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Hashing Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Binary Search Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Searching Algorithms.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Merge Sort Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Bubble Sort Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Insertion Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms.md",
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
     "Readme.md",
     "Notes/Algorithms/Introduction to Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Greedy Algorithms.md",
@@ -162,7 +166,6 @@
     "Notes/Algorithms/Types of Algorithms/Divide and Conquer Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Brute Force Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Backtracking Algorithms.md",
-    "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Searching Algorithms.md",
     "Notes/Algorithms/Algorithm Applications",
     "Notes/Algorithms/Algorithm Complexity/Space Complexity.md",
     "Notes/Algorithms/Algorithm Complexity",
@@ -181,9 +184,6 @@
     "Notes/Algorithms/Algorithm Applications/Graph Theory",
     "Notes/Algorithms/Algorithm Applications/Data Compression Algorithms",
     "Cheatsheets/Programming Languages/C.md",
-    "Cheatsheets/Frameworks/Java/JavaFX.md",
-    "Untitled.canvas",
-    "Cheatsheets/Databases/Structured Query Language (SQL).md",
-    "Cheatsheets/Design Patterns/Java.md"
+    "Untitled.canvas"
   ]
 }
