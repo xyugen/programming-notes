@@ -26,3 +26,5 @@ Calculating Fibonacci numbers using recursion is inefficient because it leads to
 
 >[!Summary]
 >Dynamic Programming is a powerful problem-solving technique that optimizes solutions by breaking down problems into smaller overlapping subproblems and storing their solutions. By avoiding redundant calculations, DP enhances efficiency and provides optimal solutions to a wide range of problems across various domains, from mathematics to computer science.
+
+#algorithm-types

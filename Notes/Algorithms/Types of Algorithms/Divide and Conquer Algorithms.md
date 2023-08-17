@@ -30,3 +30,5 @@ Divide and Conquer algorithms are used when:
 
 >[!Summary]
 >Divide and Conquer algorithms are a powerful problem-solving technique. By breaking down a big problem into smaller chunks, solving them individually, and then combining their solutions, you can efficiently tackle complex tasks. It's like solving a puzzle piece by piece instead of trying to solve it all at once.
+
+#algorithm-types

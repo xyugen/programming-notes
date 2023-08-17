@@ -23,3 +23,5 @@ Greedy Algorithms are used when:
 
 >[!Summary]
 >Greedy Algorithms are like a quick and intuitive way to solve problems by always picking what seems best at the moment. While they're not guaranteed to find the absolute best solution, they often provide a good enough answer in a reasonable amount of time. Greedy Algorithms are powerful tools in certain scenarios, especially when the problem's structure allows for making choices without worrying about future consequences.
+
+#algorithm-types

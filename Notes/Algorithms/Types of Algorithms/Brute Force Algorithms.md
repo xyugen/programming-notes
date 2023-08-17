@@ -19,3 +19,5 @@ Brute Force algorithms are used when:
 
 >[!Summary]
 >Brute Force algorithms are like the most straightforward and simplest approach to solving a problem. While they are conceptually easy to understand and implement, they might not always be the best choice due to their inefficiency, especially for larger and more complex problems. In many cases, more specialized algorithms that take advantage of problem-specific characteristics can offer better performance and efficiency.
+
+#algorithm-types

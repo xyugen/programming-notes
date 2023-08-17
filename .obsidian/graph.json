@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#programming-languages",
@@ -36,10 +36,17 @@
       }
     },
     {
-      "query": "path:Notes/Algorithms",
+      "query": "path:Notes/Algorithms ",
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#algorithm-types",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.32133638605035897,
+  "scale": 0.3213363860503588,
   "close": false
 }

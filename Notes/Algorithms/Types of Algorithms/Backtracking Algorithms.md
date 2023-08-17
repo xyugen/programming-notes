@@ -24,3 +24,5 @@ Backtracking algorithms are used when:
 
 >[!Summary]
 >Backtracking algorithms are like systematic explorers that navigate through all possible paths to find solutions to complex problems. They work well when the problem's structure involves making choices and evaluating outcomes. However, due to their exhaustive nature, they might not be the most efficient choice for problems with a massive search space. Careful implementation and optimization techniques are often needed to balance efficiency and exhaustiveness.
+
+#algorithm-types
