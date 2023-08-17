@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9ccb093b430e9bcb",
+        "id": "9631fc47195203ab",
         "type": "tabs",
         "children": [
           {
-            "id": "5a9e4b3f861af2e6",
+            "id": "166e471ad195e31a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Algorithms/Introduction to Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Algorithms/Introduction to Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Algorithms/Introduction to Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Algorithms/Introduction to Algorithms.md"
+              }
             }
           }
         ],
@@ -139,8 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a9e4b3f861af2e6",
+  "active": "166e471ad195e31a",
   "lastOpenFiles": [
+    "Notes/Algorithms/Optimization Algorithms/Optimization Algorithms.md",
+    "Notes/Algorithms/Introduction to Algorithms.md",
+    "Notes/Algorithms/Optimization Algorithms",
+    "Notes/Algorithms/AI Algorithms/Artificial Intelligence.md",
+    "Notes/Algorithms/AI Algorithms",
+    "Notes/Algorithms/Machine Learning Algorithms/Machine Learning.md",
+    "Notes/Algorithms/Machine Learning Algorithms",
+    "Notes/Algorithms/Cryptography Algorithms/Cryptography.md",
+    "Notes/Algorithms/Cryptography Algorithms",
+    "Notes/Algorithms/Graph Theory/Graph Theory.md",
+    "Notes/Algorithms/Data Compression Algorithms/Data Compression.md",
+    "Notes/Algorithms/Searching Algorithms/Searching Algorithms.md",
+    "Notes/Algorithms/Sorting Algorithms/Sorting Algorithms.md",
+    "Notes/Algorithms/Graph Theory",
+    "Notes/Algorithms/Data Compression Algorithms",
+    "Notes/Algorithms/Searching Algorithms",
+    "Notes/Algorithms/Sorting Algorithms",
+    "Notes/Algorithms",
     "Cheatsheets/Programming Languages/C.md",
     "Cheatsheets/Frameworks/Java/JavaFX.md",
     "Untitled.canvas",
@@ -159,23 +185,6 @@
     "Notes/Design Patterns/Behavioral/Observer.md",
     "Readme.md",
     "Cheatsheets/Tools/Regular Expressions (RegEx).md",
-    "Cheatsheets/Tools/Git.md",
-    "Cheatsheets/Programming Languages/Python.md",
-    "Cheatsheets/Programming Languages/JavaScript.md",
-    "Cheatsheets/Programming Languages/Csharp.md",
-    "Cheatsheets/Programming Languages/C++.md",
-    "Cheatsheets/Frameworks/Java/Spring Boot.md",
-    "2023-08-18.md",
-    "Notes/Design Patterns/Behavioral",
-    "Notes/Design Patterns/Structural",
-    "Notes/Design Patterns/Creational",
-    "Notes/Design Patterns",
-    "Notes",
-    "Cheatsheets/Design Patterns",
-    "Programming Notes/LICENSE",
-    "Programming Notes",
-    "Programming Languages/C++.md",
-    "Programming Languages/Python.md",
-    "New Text Document.txt"
+    "Cheatsheets/Tools/Git.md"
   ]
 }
