@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Poppins,Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Space Mono",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "cssTheme": "Things"
 }

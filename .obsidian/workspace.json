@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algorithms/Types of Algorithms/Brute Force.md",
+                "file": "Notes/Algorithms/Space Complexity.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Algorithms/Types of Algorithms/Brute Force.md",
+                "file": "Notes/Algorithms/Space Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Algorithms/Types of Algorithms/Brute Force.md",
+                "file": "Notes/Algorithms/Space Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Algorithms/Types of Algorithms/Brute Force.md"
+                "file": "Notes/Algorithms/Space Complexity.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "ad14d2946d584304",
   "lastOpenFiles": [
+    "Notes/Algorithms/Types of Algorithms/Brute Force.md",
     "Notes/Algorithms/Time Complexity.md",
     "Notes/Algorithms/Space Complexity.md",
     "Notes/Algorithms/Introduction to Algorithms.md",
-    "Notes/Algorithms/Types of Algorithms/Brute Force.md",
     "Notes/Algorithms/Types of Algorithms",
     "Notes/Algorithms/Sorting Algorithms/Sorting Algorithms.md",
     "Notes/Algorithms/Optimization Algorithms/Optimization Algorithms.md",
