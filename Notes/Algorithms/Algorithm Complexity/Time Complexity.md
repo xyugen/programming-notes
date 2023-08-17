@@ -1,7 +1,6 @@
 Time complexity is a concept used in computer science to measure how long an algorithm takes to run as a function of the input size. In simpler terms, it tells us how the performance of an algorithm changes as we increase the amount of data it needs to handle.
 
 **Big O Notation:**
-
 To describe time complexity, we often use a notation called Big O. It's like a shorthand that helps us talk about how an algorithm's runtime grows in relation to the size of the input. Here are some common notations and what they mean:
 - **$O(1)$ (Constant Time):** This means the algorithm's runtime doesn't change as the input grows. It's like a task that takes the same amount of time, regardless of how many items you're dealing with.
 - **$O(\log n)$ (Logarithmic Time):** As the input size increases, the algorithm's runtime increases but at a slower and slower rate. It's like finding a word in a dictionary—you don't need to search every page.

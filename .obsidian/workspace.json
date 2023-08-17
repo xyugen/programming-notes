@@ -11,8 +11,12 @@
             "id": "c784d7b036bab01d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,20 +148,26 @@
   },
   "active": "c784d7b036bab01d",
   "lastOpenFiles": [
+    "Notes/Algorithms/Algorithm Complexity/Time Complexity.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Merge Sort Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Bubble Sort Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Insertion Sort Algorithm.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
+    "Readme.md",
+    "Notes/Algorithms/Introduction to Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Greedy Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Dynamic Programming.md",
     "Notes/Algorithms/Types of Algorithms/Divide and Conquer Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Brute Force Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Backtracking Algorithms.md",
-    "Notes/Algorithms/Introduction to Algorithms.md",
     "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Searching Algorithms.md",
     "Notes/Algorithms/Algorithm Applications",
     "Notes/Algorithms/Algorithm Complexity/Space Complexity.md",
     "Notes/Algorithms/Algorithm Complexity",
-    "Notes/Algorithms/Algorithm Complexity/Time Complexity.md",
     "Notes/Algorithms/Types of Algorithms/Untitled",
     "Notes/Algorithms/Types of Algorithms",
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Sorting Algorithms.md",
     "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
     "Notes/Algorithms/Algorithm Applications/Optimization Algorithms",
     "Notes/Algorithms/Algorithm Applications/AI Algorithms/Artificial Intelligence.md",
@@ -171,12 +184,6 @@
     "Cheatsheets/Frameworks/Java/JavaFX.md",
     "Untitled.canvas",
     "Cheatsheets/Databases/Structured Query Language (SQL).md",
-    "Cheatsheets/Design Patterns/Java.md",
-    "Cheatsheets/Design Patterns/C++.md",
-    "Cheatsheets/Programming Languages/Rust.md",
-    "Cheatsheets/Programming Languages/Java.md",
-    "Cheatsheets/Programming Languages/Go.md",
-    "Notes/Design Patterns/Structural/Decorator.md",
-    "Notes/Design Patterns/Structural/Adapter.md"
+    "Cheatsheets/Design Patterns/Java.md"
   ]
 }

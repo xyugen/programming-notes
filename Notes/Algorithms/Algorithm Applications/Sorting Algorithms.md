@@ -1,23 +1,23 @@
 Sorting algorithms are essential tools in computer science that help arrange a list of items in a particular order, such as numerical or alphabetical. Imagine you have a pile of unorganized cards, and you want to arrange them in order from smallest to largest. Sorting algorithms are like the rules you follow to arrange those cards.
 
 **Popular Sorting Algorithms:**
-1. **Bubble Sort:**
+1. **[[Bubble Sort Algorithm|Bubble Sort]]:**
     - Imagine you're sorting cards by repeatedly swapping adjacent cards if they are in the wrong order.
     - This process "bubbles" the largest card to the end in each iteration.
     - Bubble Sort is easy to understand but can be slow for large lists.
-2. **Insertion Sort:**
+2. **[[Insertion Sort Algorithm|Insertion Sort]]:**
     - Imagine you're sorting cards by picking one card at a time and inserting it into the correct position among the cards you've already sorted.
     - This is like arranging a hand of cards in your hand.
     - Insertion Sort is simple and works well for small lists.
-3. **Selection Sort:**
+3. **[[Selection Sort Algorithm|Selection Sort]]:**
     - Imagine you're sorting cards by repeatedly finding the smallest card in the unsorted portion and moving it to the beginning of the sorted portion.
     - This is like selecting the smallest card and swapping it with the first card.
     - Selection Sort is straightforward but not very efficient for larger lists.
-4. **Merge Sort:**
+4. **[[Merge Sort Algorithm|Merge Sort]]:**
     - Imagine you're sorting cards by dividing the pile in half, sorting each half, and then merging the two sorted halves back together.
     - Merge Sort is more complex but efficient for larger lists.
     - It follows the "divide and conquer" strategy.
-5. **Quick Sort:**
+5. **[[Quick Sort Algorithm|Quick Sort]]:**
     - Imagine you're sorting cards by choosing a "pivot" card, dividing the pile into cards smaller and larger than the pivot, and then sorting those two piles.
     - Quick Sort is faster than some other algorithms and also uses "divide and conquer."
 
