@@ -19,7 +19,7 @@ Sorting algorithms are essential tools in computer science that help arrange a l
     - It follows the "divide and conquer" strategy.
 5. **[[Quick Sort Algorithm|Quick Sort]]:**
     - Imagine you're sorting cards by choosing a "pivot" card, dividing the pile into cards smaller and larger than the pivot, and then sorting those two piles.
-    - Quick Sort is faster than some other algorithms and also uses "divide and conquer."
+    - Quick Sort is faster than some other algorithms and also uses "[[Divide and Conquer Algorithms|divide and conquer]]."
 
 **Which One to Choose:**
 The choice of sorting algorithm depends on the situation:
