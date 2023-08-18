@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md",
+                "file": "Cheatsheets/Frameworks/Python/Flask.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md",
+                "file": "Cheatsheets/Frameworks/Python/Flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md",
+                "file": "Cheatsheets/Frameworks/Python/Flask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md"
+                "file": "Cheatsheets/Frameworks/Python/Flask.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "466e2c0fb4608f7e",
   "lastOpenFiles": [
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md",
+    "Cheatsheets/Frameworks/Python/Flask.md",
+    "Cheatsheets/Frameworks/Python",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms.md",
     "Notes/Algorithms/Introduction to Algorithms.md",
     "Readme.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Merge Sort Algorithm.md",
@@ -177,13 +179,11 @@
     "Notes/Algorithms/Types of Algorithms/Brute Force Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Backtracking Algorithms.md",
     "Notes/Algorithms/Algorithm Applications",
-    "Notes/Algorithms/Algorithm Complexity/Space Complexity.md",
     "Notes/Algorithms/Algorithm Complexity",
     "Notes/Algorithms/Types of Algorithms/Untitled",
     "Notes/Algorithms/Types of Algorithms",
     "Notes/Algorithms/Algorithm Applications/Optimization Algorithms",
     "Notes/Algorithms/Algorithm Applications/AI Algorithms",
-    "Notes/Algorithms/Algorithm Applications/Machine Learning Algorithms",
     "Untitled.canvas"
   ]
 }
