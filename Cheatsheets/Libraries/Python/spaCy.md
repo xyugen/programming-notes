@@ -22,7 +22,6 @@ pip install -U spacy
 
 ```python  
 import spacy
-from spacy.tokenizer import Tokenizer
 
 # Load a language model
 nlp = spacy.load("en_core_web_sm")
