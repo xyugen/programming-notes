@@ -7,7 +7,7 @@ pip install uvicorn  # ASGI server
 
 # Basic
 
-## App
+## App Setup
 
 ```py
 from fastapi import FastAPI
