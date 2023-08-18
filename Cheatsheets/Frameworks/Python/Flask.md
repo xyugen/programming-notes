@@ -1,10 +1,12 @@
-Installation
+## Installation
 
 ```bash
 pip install Flask
 ```
 
-## Basic App Setup
+# Basic
+
+## App Setup
 
 ```python
 from flask import Flask
@@ -275,4 +277,4 @@ def handle_message(message):
 ```
 
 >[!Note]
->This advanced Flask cheat-sheet covers more intricate features and concepts of the framework. If you need further clarification or more advanced topics, feel free to ask!
+>This advanced Flask cheat-sheet covers intricate features and concepts of the framework.

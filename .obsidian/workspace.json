@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Frameworks/Python/Flask.md",
+                "file": "Cheatsheets/Frameworks/Python/FastAPI.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheets/Frameworks/Python/Flask.md",
+                "file": "Cheatsheets/Frameworks/Python/FastAPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheets/Frameworks/Python/Flask.md",
+                "file": "Cheatsheets/Frameworks/Python/FastAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheets/Frameworks/Python/Flask.md"
+                "file": "Cheatsheets/Frameworks/Python/FastAPI.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "466e2c0fb4608f7e",
   "lastOpenFiles": [
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md",
     "Cheatsheets/Frameworks/Python/Flask.md",
+    "Cheatsheets/Frameworks/Python/FastAPI.md",
+    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Quick Sort Algorithm.md",
     "Cheatsheets/Frameworks/Python",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms.md",
     "Notes/Algorithms/Introduction to Algorithms.md",
@@ -177,7 +178,6 @@
     "Notes/Algorithms/Types of Algorithms/Dynamic Programming.md",
     "Notes/Algorithms/Types of Algorithms/Divide and Conquer Algorithms.md",
     "Notes/Algorithms/Types of Algorithms/Brute Force Algorithms.md",
-    "Notes/Algorithms/Types of Algorithms/Backtracking Algorithms.md",
     "Notes/Algorithms/Algorithm Applications",
     "Notes/Algorithms/Algorithm Complexity",
     "Notes/Algorithms/Types of Algorithms/Untitled",
