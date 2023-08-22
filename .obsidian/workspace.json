@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9bb2f024871fd1",
+        "id": "26ced6e3d0ad02df",
         "type": "tabs",
         "children": [
           {
-            "id": "8e939ccbd8d23df7",
+            "id": "8cd514c5ddbd08b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cheatsheets/Programming Languages/Java.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,11 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e939ccbd8d23df7",
+  "active": "8cd514c5ddbd08b8",
   "lastOpenFiles": [
+    "Cheatsheets/Databases/Structured Query Language (SQL).md",
+    "Readme.md",
+    "Cheatsheets/Programming Languages/Go.md",
+    "Cheatsheets/Tools/Git.md",
+    "Cheatsheets/Programming Languages/Java.md",
     "Cheatsheets/Frameworks/JavaScript/Electron.md",
     "Cheatsheets/Frameworks/JavaScript",
-    "Cheatsheets/Databases/Structured Query Language (SQL).md",
     "Cheatsheets/Libraries/Python/spaCy.md",
     "Cheatsheets/Frameworks/Python/FastAPI.md",
     "Cheatsheets/Libraries/Python/Untitled",
@@ -161,7 +166,6 @@
     "Cheatsheets/Frameworks/Python",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms.md",
     "Notes/Algorithms/Introduction to Algorithms.md",
-    "Readme.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Merge Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Searching Algorithms.md",
     "Notes/Algorithms/Algorithm Applications/Cryptography.md",
@@ -179,9 +183,6 @@
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Bubble Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Linear Search Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Hashing Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Binary Search Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Selection Sort Algorithm.md",
-    "Notes/Algorithms/Types of Algorithms/Greedy Algorithms.md",
     "Notes/Algorithms/Algorithm Applications",
     "Notes/Algorithms/Algorithm Complexity",
     "Untitled.canvas"
