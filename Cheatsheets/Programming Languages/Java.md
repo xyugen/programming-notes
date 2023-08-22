@@ -1,6 +1,5 @@
 # Basics
 ## Variables and Data Types
-
 ```java
 // Variable declaration
 int age = 30;
@@ -8,9 +7,7 @@ String name = "John";
 double salary = 50000.50;
 boolean isStudent = true;
 ```
-
 ## Control Structures
-
 ```java
 // Conditional statements
 if (condition) {
@@ -30,9 +27,7 @@ while (condition) {
   // code
 }
 ```
-
 ## Functions
-
 ```java
 // Method declaration
 int add(int a, int b) {
@@ -44,9 +39,7 @@ double add(double a, double b) {
   return a + b;
 }
 ```
-
 ## Arrays
-
 ```java
 int[] numbers = { 1, 2, 3, 4, 5 };
 
@@ -58,9 +51,7 @@ for (int number : numbers) {
   // code
 }
 ```
-
 ## Classes and Objects
-
 ```java
 class Person {
   String name;
@@ -77,9 +68,7 @@ person.name = "John";
 person.age = 30;
 person.introduce();
 ```
-
 ## Inheritance and Polymorphism
-
 ```java
 class Animal {
   void makeSound() {
@@ -94,9 +83,7 @@ class Dog extends Animal {
   }
 }
 ```
-
 ## Exception Handling
-
 ```java
 try {
   // code that might throw an exception
@@ -106,9 +93,7 @@ try {
   // code that runs regardless of whether an exception was caught
 }
 ```
-
 ## Interfaces and Abstract Classes
-
 ```java
 interface Drawable {
   void draw();
@@ -119,7 +104,6 @@ abstract class Shape implements Drawable {
 }
 ```
 ## Packages and Imports
-
 ```java
 // Importing a class
 import java.util.ArrayList;
@@ -127,9 +111,7 @@ import java.util.ArrayList;
 // Importing all classes from a package
 import java.util.*;
 ```
-
 ## File I/O
-
 ```java
 // Reading from a file
 try (BufferedReader reader = new BufferedReader(new FileReader("file.txt"))) {
@@ -149,7 +131,6 @@ try (BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"))) {
 }
 ```
 ## Multithreading
-
 ```java
 class MyThread extends Thread {
   public void run() {
@@ -162,7 +143,6 @@ MyThread thread = new MyThread();
 thread.start();
 ```
 ## Generics
-
 ```java
 class Box<T> {
   private T value;
@@ -176,13 +156,9 @@ class Box<T> {
   }
 }
 ```
-
 # Advanced
-
 ### Object-Oriented Concepts
-
 #### Encapsulation
-
 ```java
 class Person {
   private String name;
@@ -199,9 +175,7 @@ class Person {
   // ... (similarly for other fields)
 }
 ```
-
 #### Inheritance
-
 ```java
 class Parent {
   // ...
@@ -211,9 +185,7 @@ class Child extends Parent {
   // ...
 }
 ```
-
 #### Polymorphism
-
 ```java
 interface Shape {
   void draw();
@@ -231,11 +203,8 @@ class Square implements Shape {
   }
 }
 ```
-
 ### Java Collections
-
 #### ArrayList
-
 ```java
 import java.util.ArrayList;
 
@@ -244,9 +213,7 @@ names.add("Alice");
 names.add("Bob");
 names.remove("Alice");
 ```
-
 #### HashMap
-
 ```java
 import java.util.HashMap;
 
@@ -255,9 +222,7 @@ ages.put("Alice", 25);
 ages.put("Bob", 30);
 int age = ages.get("Alice");
 ```
-
 #### Filtering and Mapping
-
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
 List<Integer> evenSquares = numbers.stream()
@@ -265,18 +230,14 @@ List<Integer> evenSquares = numbers.stream()
                                    .map(n -> n * n)
                                    .collect(Collectors.toList());
 ```
-
 #### Sorting
-
 ```java
 List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
 List<String> sortedNames = names.stream()
                                .sorted()
                                .collect(Collectors.toList());
 ```
-
 ### Java Exceptions
-
 ```java
 try {
   // code that might throw an exception
@@ -286,11 +247,8 @@ try {
   // code that runs regardless of whether an exception was caught
 }
 ```
-
 ### Java Threads
-
 #### Runnable Interface
-
 ```java
 class MyRunnable implements Runnable {
   public void run() {
@@ -303,7 +261,6 @@ thread.start();
 ```
 
 #### Synchronization
-
 ```java
 class Counter {
   private int count = 0;
@@ -315,7 +272,6 @@ class Counter {
 ```
 
 ### Java Generics
-
 ```java
 class Box<T> {
   private T value;
@@ -333,7 +289,6 @@ class Box<T> {
 ### Java File I/O
 
 #### Reading from a File
-
 ```java
 try (BufferedReader reader = new BufferedReader(new FileReader("file.txt"))) {
   String line;
@@ -346,7 +301,6 @@ try (BufferedReader reader = new BufferedReader(new FileReader("file.txt"))) {
 ```
 
 #### Writing to a File
-
 ```java
 try (BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"))) {
   writer.write("Hello, world!");
@@ -356,7 +310,6 @@ try (BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"))) {
 ```
 
 ### Java Enumerations
-
 ```java
 enum Day {
   SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
@@ -390,7 +343,6 @@ The `Math` class in Java provides various static methods for performing mathemat
 - `round(float a)` / `round(double a)`: Returns the closest integer to the given number.
 - `random()`: Returns a random double value between 0 (inclusive) and 1 (exclusive).
 ### Example Usage
-
 ```java
 public class StringAndMathExample {
     public static void main(String[] args) {
@@ -428,7 +380,6 @@ public class StringAndMathExample {
 - They help prevent naming conflicts and provide a hierarchical structure to the codebase.
 
 ##### Creating Packages
-
 ```java
 package com.example.myapp; // Declare package at the beginning of the file
 
@@ -437,7 +388,6 @@ public class MyClass {
 }
 ```
 ##### Accessing Classes from Packages
-
 ```java
 import com.example.myapp.MyClass; // Import specific class from package
 
@@ -452,7 +402,6 @@ public class Main {
 - `import` statement is used to bring classes and interfaces from other packages into the current code.
 - It helps avoid fully qualified class names.
 ##### Import Types
-
 ```java
 import java.util.*; // Import all classes from java.util package
 import java.util.ArrayList; // Import only ArrayList from java.util package
@@ -476,5 +425,109 @@ java -classpath /path/to/classes:/path/to/libs/* MyMainClass
 #### Package Naming Conventions
 - Packages use reverse domain naming convention, e.g., `com.example.myapp`.
 - Use lowercase for package names, e.g., `com.example.myapp`.
+### 9. Interfaces and Inheritance
+#### Interfaces
+An interface in Java is a blueprint for a class. It defines a set of method signatures that a class implementing the interface must provide. Interfaces enable multiple classes to share common method signatures without inheriting from a common superclass. Some key points about interfaces:
+- Declare an interface using the `interface` keyword.
+- All methods in an interface are implicitly `public` and `abstract`. They cannot have method bodies.
+- Classes implement interfaces using the `implements` keyword.
+
+```java
+interface Drawable {
+    void draw();
+}
+
+class Circle implements Drawable {
+    public void draw() {
+        // Implementation for drawing a circle
+    }
+}
+```
+#### Inheritance
+Inheritance is a fundamental concept in OOP that allows a class (subclass or derived class) to inherit the attributes and methods of another class (superclass or base class). It promotes code reuse and hierarchical organization of classes.
+- Use the `extends` keyword to create a subclass that inherits from a superclass.
+- Subclasses can access public and protected members of the superclass.
+- Java supports single inheritance (a subclass can only inherit from one superclass), but multiple interfaces can be implemented.
+
+```java
+class Animal {
+    void eat() {
+        System.out.println("Animal is eating.");
+    }
+}
+
+class Dog extends Animal {
+    void bark() {
+        System.out.println("Dog is barking.");
+    }
+}
+```
+#### Polymorphism
+Polymorphism allows objects of different classes to be treated as objects of a common superclass. This promotes flexibility and code reusability.
+- Polymorphism is achieved through method overriding (subclass provides a specific implementation of a method from the superclass).
+- The `@Override` annotation indicates that a method in a subclass is intended to override a method in the superclass.
+- Polymorphism is particularly useful when dealing with collections of objects.
+
+```java
+class Shape {
+    void draw() {
+        System.out.println("Drawing a shape.");
+    }
+}
+
+class Circle extends Shape {
+    @Override
+    void draw() {
+        System.out.println("Drawing a circle.");
+    }
+}
+
+class Square extends Shape {
+    @Override
+    void draw() {
+        System.out.println("Drawing a square.");
+    }
+}
+```
+#### Abstract Classes
+An abstract class cannot be instantiated and is often used as a base for other classes. It can contain both abstract (without method body) and concrete methods.
+- Declare an abstract class using the `abstract` keyword.
+- Abstract methods are declared without a method body and must be overridden by subclasses.
+
+```java
+abstract class Shape {
+    abstract void draw(); // Abstract method
+
+    void resize() {
+        System.out.println("Resizing the shape.");
+    }
+}
+
+class Circle extends Shape {
+    @Override
+    void draw() {
+        System.out.println("Drawing a circle.");
+    }
+}
+```
+#### Super Keyword
+The `super` keyword is used to refer to the superclass's members (methods, fields, constructors) within a subclass.
+- It is used to call a superclass constructor and access overridden methods or fields.
+
+```java
+class Parent {
+    void display() {
+        System.out.println("Parent class method.");
+    }
+}
+
+class Child extends Parent {
+    @Override
+    void display() {
+        super.display(); // Call parent class method
+        System.out.println("Child class method.");
+    }
+}
+```
 
 #programming-languages
