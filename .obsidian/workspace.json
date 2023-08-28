@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,11 +148,12 @@
   },
   "active": "8cd514c5ddbd08b8",
   "lastOpenFiles": [
+    "Cheatsheets/Design Patterns/Java.md",
+    "Cheatsheets/Programming Languages/Java.md",
     "Cheatsheets/Databases/Structured Query Language (SQL).md",
     "Readme.md",
     "Cheatsheets/Programming Languages/Go.md",
     "Cheatsheets/Tools/Git.md",
-    "Cheatsheets/Programming Languages/Java.md",
     "Cheatsheets/Frameworks/JavaScript/Electron.md",
     "Cheatsheets/Frameworks/JavaScript",
     "Cheatsheets/Libraries/Python/spaCy.md",
@@ -182,7 +182,6 @@
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Insertion Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Bubble Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Linear Search Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Hashing Algorithm.md",
     "Notes/Algorithms/Algorithm Applications",
     "Notes/Algorithms/Algorithm Complexity",
     "Untitled.canvas"
