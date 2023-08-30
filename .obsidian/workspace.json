@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Programming Languages/Java.md",
+                "file": "Notes/Programming Languages/Java.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheets/Programming Languages/Java.md",
+                "file": "Notes/Programming Languages/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheets/Programming Languages/Java.md",
+                "file": "Notes/Programming Languages/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheets/Programming Languages/Java.md"
+                "file": "Notes/Programming Languages/Java.md"
               }
             }
           }
@@ -148,7 +148,14 @@
   },
   "active": "8cd514c5ddbd08b8",
   "lastOpenFiles": [
+    "Notes/Glossary/Class.md",
+    "Notes/Programming Languages/Java.md",
+    "Notes/Glossary",
+    "Cheatsheets/Programming Languages/C++.md",
+    "Notes/Programming Languages",
+    "Cheatsheets/Design Patterns/C++.md",
     "Cheatsheets/Design Patterns/Java.md",
+    "Notes/Design Patterns/Behavioral/Observer.md",
     "Cheatsheets/Programming Languages/Java.md",
     "Cheatsheets/Databases/Structured Query Language (SQL).md",
     "Readme.md",
@@ -177,13 +184,6 @@
     "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Types of Cryptography/Asymmetric Key Cryptography.md",
     "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Types of Cryptography",
     "Notes/Algorithms/Algorithm Applications/AI Algorithms/Artificial Intelligence Algorithms.md",
-    "Notes/Algorithms/Algorithm Applications/Optimization Algorithms/Optimization Algorithms.md",
-    "Notes/Algorithms/Algorithm Complexity/Time Complexity.md",
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Insertion Sort Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Bubble Sort Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications/Searching Algorithms/Linear Search Algorithm.md",
-    "Notes/Algorithms/Algorithm Applications",
-    "Notes/Algorithms/Algorithm Complexity",
     "Untitled.canvas"
   ]
 }
