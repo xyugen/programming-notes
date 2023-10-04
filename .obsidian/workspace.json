@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cd514c5ddbd08b8",
+            "id": "93244e1071016b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming Languages/Java.md",
-                "mode": "preview",
-                "source": true
+                "file": "Cheatsheets/Programming Languages/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "855edea84a1d5624",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming Languages/Java.md",
+                "file": "Cheatsheets/Programming Languages/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming Languages/Java.md",
+                "file": "Cheatsheets/Programming Languages/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming Languages/Java.md"
+                "file": "Cheatsheets/Programming Languages/Java.md"
+              }
+            }
+          },
+          {
+            "id": "b279e488b11f2068",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,21 +167,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cd514c5ddbd08b8",
+  "active": "855edea84a1d5624",
   "lastOpenFiles": [
+    "Cheatsheets/Programming Languages/C.md",
+    "Cheatsheets/Programming Languages/Java.md",
+    "Cheatsheets/Programming Languages/C++.md",
+    "Cheatsheets/Programming Languages/Csharp.md",
+    "Cheatsheets/Programming Languages/Rust.md",
+    "Cheatsheets/Programming Languages/Python.md",
+    "Cheatsheets/Tools/Git.md",
     "Cheatsheets/Programming Languages/Go.md",
     "Notes/Programming Languages/Java.md",
-    "Cheatsheets/Programming Languages/Java.md",
+    "Cheatsheets/Programming Languages/Untitled.md",
     "Notes/Glossary/Class.md",
     "Notes/Glossary",
-    "Cheatsheets/Programming Languages/C++.md",
     "Notes/Programming Languages",
     "Cheatsheets/Design Patterns/C++.md",
     "Cheatsheets/Design Patterns/Java.md",
     "Notes/Design Patterns/Behavioral/Observer.md",
     "Cheatsheets/Databases/Structured Query Language (SQL).md",
     "Readme.md",
-    "Cheatsheets/Tools/Git.md",
     "Cheatsheets/Frameworks/JavaScript/Electron.md",
     "Cheatsheets/Frameworks/JavaScript",
     "Cheatsheets/Libraries/Python/spaCy.md",
@@ -176,14 +202,9 @@
     "Notes/Algorithms/Algorithm Applications/Sorting Algorithms/Merge Sort Algorithm.md",
     "Notes/Algorithms/Algorithm Applications/Searching Algorithms.md",
     "Notes/Algorithms/Algorithm Applications/Cryptography.md",
-    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Types of Cryptography/Symmetric Key Cryptography.md",
-    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Symmetric Key Cryptography/Data Encryption Standard (DES).md",
-    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Symmetric Key Cryptography/Advanced Encryption Standard (AES).md",
     "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Asymmetric Key Cryptography",
     "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Symmetric Key Cryptography",
-    "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Types of Cryptography/Asymmetric Key Cryptography.md",
     "Notes/Algorithms/Algorithm Applications/Cryptography Algorithms/Types of Cryptography",
-    "Notes/Algorithms/Algorithm Applications/AI Algorithms/Artificial Intelligence Algorithms.md",
     "Untitled.canvas"
   ]
 }

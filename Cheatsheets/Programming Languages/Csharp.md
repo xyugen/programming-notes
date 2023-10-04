@@ -15,7 +15,7 @@ var name = "John";
 int? nullableAge = null;
 
 // Constants
-const double Pi = 3.14159;
+const double PI = 3.14159;
 ```
 
 ## Control Structures
